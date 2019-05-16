@@ -158,3 +158,6 @@ and served directly by the CDN.
 This allows for an extremely simple setup without the need for a separate static server.
 
 [Cloudfront Setup Wiki](https://github.com/gtalarico/django-vue-template/wiki/Setup-CDN-on-Cloud-Front)
+
+# Thanks to
+[Gui Talarico](https://github.com/gtalarico) and [Jake McDermott](https://github.com/jakemcdermott) for providing wonderful templates to base off of.
